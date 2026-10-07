@@ -1,0 +1,7 @@
+﻿# Un nome utente per riga.
+# Sono accettati: utente, DOMINIO\utente oppure utente@dominio
+# Il confronto non distingue maiuscole/minuscole.
+ldirman
+aadragna
+rcremente
+pmarchese
